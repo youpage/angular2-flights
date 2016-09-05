@@ -26,6 +26,10 @@ Use npm to get dependencies:
 
 `npm install`
 
+Install typings
+
+`typings install`
+
 ### Build
 
 The build step invokes the TypeScript compiler to create ES5 javascript
