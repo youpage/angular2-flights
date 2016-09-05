@@ -1,7 +1,7 @@
 # Angular 2 RC6
 
 Flight search results from JSON API
-- Bootstarp
+- Bootstrap
 - Basic Routing 
 - Data Service to retrive data from API
 - Display Component
